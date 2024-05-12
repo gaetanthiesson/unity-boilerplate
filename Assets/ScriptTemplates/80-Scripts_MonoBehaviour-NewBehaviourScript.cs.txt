@@ -1,0 +1,19 @@
+using UnityEngine;
+
+/// <summary>
+/// 
+/// </summary>
+public class #SCRIPTNAME# : MonoBehaviour
+{
+    // Events ---------------------------------------
+
+    // Properties -----------------------------------
+
+    // Fields ---------------------------------------
+
+    // Unity Methods   ------------------------------
+
+    // Other Methods --------------------------------
+
+    // Event Handlers -------------------------------
+}

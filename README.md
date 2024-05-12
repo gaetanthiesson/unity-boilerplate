@@ -3,6 +3,8 @@ This is a [Unity](https://unity.com/) boilerplate with reusable script and other
 ## Features
 - .gitignore and .gitattributes templates
 - Hash cashing classes template
+- Basic event channels setup
+- Custom script templates
 
 ## Usage
 
@@ -32,9 +34,10 @@ animator.SetFloat(AnimatorParam.SpeedHash, 1.0f);
 
 ## Roadmap
 - [X] .gitignore and .gitattributes templates
-- [ ] ScriptableObjects event channels
+- [X] ScriptableObjects event channels
 - [X] Hash cache file template
 - [ ] Script templates
+- [ ] Documentation and exemples
 - [ ] UI components
 - [ ] Utilities extension methods
 
