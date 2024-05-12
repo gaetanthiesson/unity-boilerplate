@@ -5,6 +5,7 @@ using UnityEngine;
 /// </summary>
 public class ShaderParam
 {
+    // For example:
     // public static readonly int _ColorID = Shader.PropertyToID("_Color");
 }
 
@@ -13,5 +14,6 @@ public class ShaderParam
 /// </summary>
 public class AnimatorParam
 {
+    // For example:
     // public static readonly int SpeedHash = Animator.StringToHash("Speed");
 }
