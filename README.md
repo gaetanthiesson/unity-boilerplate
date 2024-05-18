@@ -28,8 +28,8 @@ Add package from git url : https://github.com/gaetanthiesson/unity-boilerplate/t
 :warning: **FOR SCRIPT TEMPLATES TO BE LOADED** :warning:
 
 1. 2 options
-    1. ScriptTemplates folder must be moved directly under Assets folder
-    2.Put .txt files into %UNITY_EDITOR_PATH&\Data\Resources\ScriptTemplates (this will apply them to any project using this version of Unity)
+    * ScriptTemplates folder must be moved directly under Assets folder
+    * Put .txt files into %UNITY_EDITOR_PATH&\Data\Resources\ScriptTemplates (this will apply them to any project using this version of Unity)
 3. Restart your Unity Editor
 
 ## Usage
