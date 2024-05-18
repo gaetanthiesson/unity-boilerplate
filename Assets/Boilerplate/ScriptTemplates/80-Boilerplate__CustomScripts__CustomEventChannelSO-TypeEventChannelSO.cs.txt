@@ -1,0 +1,4 @@
+using UnityEngine;
+
+[CreateAssetMenu(menuName = "Events/#TYPE# EventChannel", fileName = "#TYPE#EventChannel")]
+public class #SCRIPTNAME# : GenericEventChannelSO<#TYPE#> {}

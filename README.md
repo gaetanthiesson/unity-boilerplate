@@ -5,6 +5,8 @@ This is a Unity boilerplate with usefull script and other templates I often reus
   - [PackageManager](#packagemanager)
 - [Usage](#usage)
   - [Hash caching](#hash-caching)
+  - [Script templates](#script-templates)
+  - [Event channel ScriptableObjects](#event-channel-scriptableobjects)
 - [:construction: Roadmap :construction:](#construction-roadmap-construction)
 - [Credits \& Read also](#credits--read-also)
 - [License](#license)
@@ -21,6 +23,13 @@ This is a Unity boilerplate with usefull script and other templates I often reus
 ### PackageManager
 
 Add package from git url : https://github.com/gaetanthiesson/unity-boilerplate/tree/main/Assets/Boilerplate
+
+:warning: **FOR TEMPLATES TO BE LOADED** :warning:
+
+1. ScriptTemplates folder must be moved directly under Assets folder
+or
+2. Put .txt files into %UNITY_EDITOR_PATH&\Data\Resources\ScriptTemplates
+3. Restart your Unity Editor
 
 ## Usage
 
@@ -52,12 +61,20 @@ public class AnimatorParam
 animator.SetFloat(AnimatorParam.SpeedHash, 1.0f);
 ```
 
+### Script templates
+
+Extend Unity default script templates
+
+
+### Event channel ScriptableObjects
+TO DO
+
 ## :construction: Roadmap :construction:
 
 - [X] .gitignore and .gitattributes templates
 - [X] ScriptableObjects event channels
 - [X] Hash cache file template
-- [ ] Script templates
+- [X] Script templates
 - [ ] Documentation and exemples event channels
 - [ ] Logger
 - [ ] UI components
