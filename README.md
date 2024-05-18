@@ -28,9 +28,9 @@ Add package from git url : https://github.com/gaetanthiesson/unity-boilerplate/t
 :warning: **FOR TEMPLATES TO BE LOADED** :warning:
 
 1. ScriptTemplates folder must be moved directly under Assets folder
-or
-2. Put .txt files into %UNITY_EDITOR_PATH&\Data\Resources\ScriptTemplates
-3. Restart your Unity Editor
+  **or**
+Put .txt files into %UNITY_EDITOR_PATH&\Data\Resources\ScriptTemplates
+2. Restart your Unity Editor
 
 ## Usage
 
@@ -66,6 +66,7 @@ animator.SetFloat(AnimatorParam.SpeedHash, 1.0f);
 
 Extend Unity default script templates
 
+![image](https://github.com/gaetanthiesson/unity-boilerplate/assets/16124367/fc38c5eb-9090-4c03-8612-35ab91d28b9a)
 
 ### Event channel ScriptableObjects
 TO DO
