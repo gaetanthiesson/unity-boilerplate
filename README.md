@@ -60,6 +60,7 @@ animator.SetFloat(AnimatorParam.SpeedHash, 1.0f);
 - [X] Hash cache file template
 - [ ] Script templates
 - [ ] Documentation and exemples event channels
+- [ ] Runtime sets SO
 - [ ] Logger
 - [ ] UI components
 - [ ] Utilities extension methods
