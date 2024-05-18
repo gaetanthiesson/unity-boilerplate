@@ -37,6 +37,7 @@ animator.SetFloat(AnimatorParam.SpeedHash, 1.0f);
 - [X] ScriptableObjects event channels
 - [X] Hash cache file template
 - [ ] Script templates
+- [ ] Logger
 - [ ] Documentation and exemples
 - [ ] UI components
 - [ ] Utilities extension methods
