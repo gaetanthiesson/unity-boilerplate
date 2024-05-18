@@ -25,12 +25,12 @@ This is a Unity boilerplate with usefull script and other templates I often reus
 Add package from git url : https://github.com/gaetanthiesson/unity-boilerplate/tree/main/Assets/Boilerplate
 ![image](https://github.com/gaetanthiesson/unity-boilerplate/assets/16124367/dfc71ee8-84f2-48ec-a82d-53f880455960)
 
-:warning: **FOR TEMPLATES TO BE LOADED** :warning:
+:warning: **FOR SCRIPT TEMPLATES TO BE LOADED** :warning:
 
-1. ScriptTemplates folder must be moved directly under Assets folder
-  **or**
-Put .txt files into %UNITY_EDITOR_PATH&\Data\Resources\ScriptTemplates
-2. Restart your Unity Editor
+1. 2 options
+    1. ScriptTemplates folder must be moved directly under Assets folder
+    2.Put .txt files into %UNITY_EDITOR_PATH&\Data\Resources\ScriptTemplates (this will apply them to any project using this version of Unity)
+3. Restart your Unity Editor
 
 ## Usage
 
