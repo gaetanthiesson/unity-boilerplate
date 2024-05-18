@@ -23,6 +23,7 @@ This is a Unity boilerplate with usefull script and other templates I often reus
 ### PackageManager
 
 Add package from git url : https://github.com/gaetanthiesson/unity-boilerplate/tree/main/Assets/Boilerplate
+![image](https://github.com/gaetanthiesson/unity-boilerplate/assets/16124367/dfc71ee8-84f2-48ec-a82d-53f880455960)
 
 :warning: **FOR TEMPLATES TO BE LOADED** :warning:
 
@@ -76,6 +77,7 @@ TO DO
 - [X] Hash cache file template
 - [X] Script templates
 - [ ] Documentation and exemples event channels
+- [ ] Runtime sets SO
 - [ ] Logger
 - [ ] UI components
 - [ ] Utilities extension methods
