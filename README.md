@@ -79,6 +79,7 @@ TO DO
 - [X] ScriptableObjects event channels
 - [X] Hash cache file template
 - [X] Script templates
+- [ ] Editor tooling event channels
 - [ ] Documentation and exmples event channels
 - [ ] Runtime sets with SO (Observer pattern)
 - [ ] Logger
