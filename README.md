@@ -14,7 +14,7 @@ This is a Unity boilerplate with usefull script and other templates I often reus
 ## Features
 
 - .gitignore and .gitattributes templates
-- Hash cashing classes template
+- Utilities scripts
 - Basic event channels setup
 - Custom script templates
 
@@ -79,7 +79,7 @@ TO DO
 - [X] ScriptableObjects event channels
 - [X] Hash cache file template
 - [X] Script templates
-- [ ] Editor tooling event channels
+- [X] Editor tooling event channels
 - [ ] Documentation and exmples event channels
 - [ ] Runtime sets with SO (Observer pattern)
 - [ ] Logger
