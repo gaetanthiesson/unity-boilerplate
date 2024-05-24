@@ -25,11 +25,13 @@ This is a Unity boilerplate with usefull script and other templates I often reus
 Add package from git url : https://github.com/gaetanthiesson/unity-boilerplate/tree/main/Assets/Boilerplate
 ![image](https://github.com/gaetanthiesson/unity-boilerplate/assets/16124367/dfc71ee8-84f2-48ec-a82d-53f880455960)
 
-:warning: **FOR TEMPLATES TO BE LOADED** :warning:
+### Download the last release [here](https://github.com/gaetanthiesson/unity-boilerplate/releases)
 
-1. ScriptTemplates folder must be moved directly under Assets folder
-or
-2. Put .txt files into %UNITY_EDITOR_PATH&\Data\Resources\ScriptTemplates
+:warning: **FOR SCRIPT TEMPLATES TO BE LOADED** :warning:
+
+1. 2 options
+    * ScriptTemplates folder must be moved directly under Assets folder
+    * Put .txt files into %UNITY_EDITOR_PATH&\Data\Resources\ScriptTemplates (this will apply them to any project using this version of Unity)
 3. Restart your Unity Editor
 
 ## Usage
@@ -66,6 +68,7 @@ animator.SetFloat(AnimatorParam.SpeedHash, 1.0f);
 
 Extend Unity default script templates
 
+![image](https://github.com/gaetanthiesson/unity-boilerplate/assets/16124367/fc38c5eb-9090-4c03-8612-35ab91d28b9a)
 
 ### Event channel ScriptableObjects
 TO DO
@@ -76,6 +79,7 @@ TO DO
 - [X] ScriptableObjects event channels
 - [X] Hash cache file template
 - [X] Script templates
+- [ ] Editor tooling event channels
 - [ ] Documentation and exmples event channels
 - [ ] Runtime sets with SO (Observer pattern)
 - [ ] Logger
