@@ -71,7 +71,7 @@ Extend Unity default script templates
 ![image](https://github.com/gaetanthiesson/unity-boilerplate/assets/16124367/fc38c5eb-9090-4c03-8612-35ab91d28b9a)
 
 ### Event channel ScriptableObjects
-TO DO
+Implemented as is [ScriptableObjects as event channels](https://unity.com/how-to/scriptableobjects-event-channels-game-code#how-event-channels-help)
 
 ## :construction: Roadmap :construction:
 
