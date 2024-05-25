@@ -80,8 +80,8 @@ TO DO
 - [X] Hash cache file template
 - [X] Script templates
 - [X] Editor tooling event channels
-- [ ] Documentation and exmples event channels
-- [ ] Runtime sets with SO (Observer pattern)
+- [ ] Exemples
+- [X] Runtime sets with SO (Observer pattern)
 - [ ] Logger
 - [ ] UI components
 - [ ] Utilities extension methods
@@ -91,6 +91,7 @@ TO DO
 You can find most of the pattern and templates explained there.
 
 - [ScriptableObjects as event channels](https://unity.com/how-to/scriptableobjects-event-channels-game-code#how-event-channels-help)
+- [PaddleGameSO](https://github.com/UnityTechnologies/PaddleGameSO)
 - [Shader parameters hash caching](https://forum.unity.com/threads/shader-propertytoid-name-why-is-it-more-efficient-and-best-practise-to-store-multiple-ids.492831/#post-3216842)
   
 ## License
